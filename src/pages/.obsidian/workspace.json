@@ -13,13 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "en/hosting-options.md",
+                "file": "en/jamstack-frameworks.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "777f480069f156d5",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "[[",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "en/hosting-options.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "en/hosting-options.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "en/hosting-options.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -136,8 +141,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "bb15c916d16e52d5",
+  "active": "777f480069f156d5",
   "lastOpenFiles": [
-    "en/netlify.md"
+    "static-vs-jamstack.png",
+    "en/jamstack-frameworks.md",
+    "en/guides/index.md",
+    "en/guides/vuepress-and-docusaurus.md",
+    "en/guides/jekyll-and-hugo 1.md",
+    "en/guides/how-to-use-netlify-cms.md",
+    "en/guides/how-to-use-github-pages.md",
+    "en/guides/eleventy-and-astro 1.md",
+    "en/guides/how-to-use-forestry.md",
+    "en/tutorials/building-a-better-portfolio.md"
   ]
 }
