@@ -1,7 +1,7 @@
 ---
 title: Markdown Resources
 description: A list of resources for learning Markdown.
-layout: ../../layouts/MainLayout.astro
+layout: ../../../layouts/MainLayout.astro
 ---
 
 Markdown is a lightweight markup language with plain text formatting syntax. It's designed so that it can be converted to HTML and many other formats using a tool by the same name. You are probably familiar with Markup languages like HTML, but Markdown is different because it's designed to be easy to read and write, even when not converted to HTML.

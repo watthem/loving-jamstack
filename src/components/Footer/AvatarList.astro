@@ -4,9 +4,9 @@ type Props = {
 	path: string;
 };
 const { path } = Astro.props as Props;
-const resolvedPath = `src/pages/${path}`;
+const resolvedPath = `${path}`;
 const url = `https://api.github.com/repos/watthem/loving-jamstack/commits?path=${resolvedPath}`;
-const commitsURL = `https://github.com/watthem/loving-jamstack/commits/main/${resolvedPath}`;
+const commitsURL = `https://github.com/watthem/loving-jamstack/commits/master/${resolvedPath}`;
 
 type Commit = {
 	author: {

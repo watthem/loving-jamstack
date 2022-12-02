@@ -10,5 +10,7 @@ export default defineConfig({
     // Enable React for the Algolia search component.
     react(),
   ],
-  site: `http://astro.build`,
+  // TODO: Set up base to /jam/ when we're ready to launch.
+  // base: "/jam/",
+  site: "https://matthewhendricks.net/",
 });

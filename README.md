@@ -1,6 +1,6 @@
-# Loving JAMStack
+# Loving Jamstack
 
-This is a static website built with Astro. It's a digital garden for JAMStack, Web Development, and more.
+This is a static website built with Astro. It's a digital garden for Jamstack, Web Development, and more.
 
 ## Get Started
 

@@ -52,8 +52,13 @@ Hugo is a much newer static site generator, having been released in 2013. Writte
 
 ## Conclusion
 
-### Summary of Results
+- Jekyll and Hugo are two of the most popular static site generators
+- Both are open source and written in Ruby and Go respectively
+- Both have active communities and are well supported by hosting providers
+- Jekyll is the older of the two and has more features, while Hugo has a faster build time
+- Jekyll is more suitable for complex websites with lots of content, while Hugo is better for simpler sites
 
-### Recommendation
+## Resources
 
-### Next Steps
+- [Jekyll](https://jekyllrb.com/)
+- [Hugo](https://gohugo.io/)

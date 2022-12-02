@@ -3,6 +3,8 @@ import { useState, useCallback, useRef } from 'react';
 import { ALGOLIA } from '../../config';
 import '@docsearch/css';
 import './Search.css';
+import * as CONFIG from '../../config';
+
 
 import { createPortal } from 'react-dom';
 import * as docSearchReact from '@docsearch/react';
@@ -15,6 +17,9 @@ const useDocSearchKeyboardEvents =
 	(docSearchReact as any).default.useDocSearchKeyboardEvents;
 
 export default function Search() {
+	
+	if(!CONFIG.SHOULD_SHOW_SEARCH) return;
+
 	const [isOpen, setIsOpen] = useState(false);
 	const searchButtonRef = useRef<HTMLButtonElement>(null);
 	const [initialQuery, setInitialQuery] = useState('');

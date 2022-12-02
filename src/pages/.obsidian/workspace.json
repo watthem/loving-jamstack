@@ -1,0 +1,143 @@
+{
+  "main": {
+    "id": "7b40699e83fe84c4",
+    "type": "split",
+    "children": [
+      {
+        "id": "4c4183b58538c68e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bb15c916d16e52d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "en/hosting-options.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3b874f79c0bef97b",
+    "type": "split",
+    "children": [
+      {
+        "id": "8d45757449014c1b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "23b7da7af2236f25",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f1d11ccad469ca23",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3f46fe1fe8f725db",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8a32f2cafa41e242",
+    "type": "split",
+    "children": [
+      {
+        "id": "3d51f31e2605f0b9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a49088ac35b4f5ce",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "en/hosting-options.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2aed6d866bea7f98",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "en/hosting-options.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9cf4fa4ce5e4a4b4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8f0434f3b96b535f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "en/hosting-options.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "bb15c916d16e52d5",
+  "lastOpenFiles": [
+    "en/netlify.md"
+  ]
+}

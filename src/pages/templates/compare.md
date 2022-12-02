@@ -1,6 +1,6 @@
 # Introduction
 
-## Definition of JAMstack
+## Definition of Jamstack
 
 ### Purpose of Comparing Two Frameworks
 

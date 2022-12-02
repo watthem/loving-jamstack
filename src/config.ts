@@ -1,6 +1,6 @@
 export const SITE = {
-	title: 'Loving JAMStack',
-	description: 'A digital garden for learning about JAMStack',
+	title: 'Loving Jamstack',
+	description: 'A digital garden for learning about Jamstack',
 	defaultLanguage: 'en_US',
 };
 
@@ -8,7 +8,7 @@ export const OPEN_GRAPH = {
 	image: {
 		src: 'jamstack.svg',
 		alt:
-			'A JAMStack logo with a heart in the middle. The heart is made of the letters J, A, and M.',
+			'A Jamstack logo with a heart in the middle. The heart is made of the letters J, A, and M.',
 	},
 	twitter: 'lovingjamstack',
 };
@@ -29,9 +29,14 @@ export const KNOWN_LANGUAGES = {
 } as const;
 export const KNOWN_LANGUAGE_CODES = Object.values(KNOWN_LANGUAGES);
 
-export const GITHUB_EDIT_URL = `https://github.com/watthem/loving-jamstack/tree/main`;
+export const SHOULD_SHOW_COMMITS = false;
 
-export const COMMUNITY_INVITE_URL = `https://discord.gg/`;
+export const GITHUB_EDIT_URL = `https://github.com/watthem/loving-jamstack/tree/master`;
+
+// uncomment to enable link to chat
+// export const COMMUNITY_INVITE_URL = `https://discord.gg/`;
+
+export const SHOULD_SHOW_SEARCH = false;
 
 // See "Algolia" section of the README for more information.
 export const ALGOLIA = {
@@ -48,11 +53,18 @@ export const SIDEBAR: Sidebar = {
 	en: {
 		'Docs': [
 			{ text: 'Introduction', link: 'en/introduction' },
-			{ text: 'JAMStack Frameworks', link: 'en/JAMStack-frameworks' },
+			{ text: 'Jamstack Frameworks', link: 'en/jamstack-frameworks', 
+		 },
 			{ text: 'Hosting Options', link: 'en/hosting-options' },
+			{ text: 'Check out all the guides', link: 'en/guides' },
+
 		],
 		'Tutorials': [
-			{ text: 'Building a better portfolio', link: 'en/tutorials/building-a-better-portfolio' },
-			{ text: 'Migrating from WordPress', link: 'en/tutorials/migrating-from-wordpress' }]
+			{ text: 'Building a Better Portfolio', link: 'en/tutorials/building-a-better-portfolio' },
+			{ text: 'Migrating from WordPress', link: 'en/tutorials/migrating-from-wordpress' }],
+			
+		'Resources': [
+			{ text: 'Jamstack Resources', link: 'en/resources' },
+		],
 	},
 };
