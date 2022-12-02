@@ -1,3 +1,3 @@
 ---
-layout: ../../layouts/MainLayout.astro
+layout: ../../../layouts/MainLayout.astro
 ---
