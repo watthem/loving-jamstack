@@ -71,7 +71,10 @@ Both React and Vue are great choices for building a portfolio, so it is importan
 
 ### Notable
 
-Apollo is an interesting framework since it allows you to combine the power of React with the simplicity of Vue. It is a great choice for developers who want to build a portfolio using both React and Vue, but don't want to commit to one or the other.
+There's so many frameworks out there, it's hard to keep track of them all. Here are some notable ones that we've seen used for portfolios:
+
+- [Astro](https://Astro.build) is an interesting framework since it allows you to combine the power of React with the simplicity of Vue. It is a great choice for developers who want to build a portfolio using both React and Vue, but don't want to commit to one or the other.
+- [MetalSmith](https://metalsmith.io/) is a powerful and versatile static site generator that is built on top of Node.js. It is easy to learn and has a wide range of components and tools to create stunning websites. Additionally, MetalSmith has great documentation and a vibrant community of developers.
 
 ## Choosing a UI library
 
