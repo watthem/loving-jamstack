@@ -52,20 +52,25 @@ Overall, using Netlify to manage DNS for your domain is a convenient and user-fr
 
 ### Manage multiple sites
 
-To host two Netlify sites under the same domain, you can use Netlify's proxy rewrite feature. This allows you to redirect traffic from one subdomain to a different site or location on the same domain.
+To host two Netlify sites under the same domain, you can use [Netlify's proxy rewrite](https://docs.netlify.com/routing/redirects/rewrites-proxies/#proxy-to-another-service) feature. This allows you to redirect traffic from one subdomain to a different site or location on the same domain.
 
 Here is an example of how you can use proxy rewrite to host two Netlify sites under the same domain:
 
-Let's say you have two sites, site1.com and site2.com, and you want to host both of these sites under the same domain, example.com. You can use the proxy rewrite feature to redirect traffic from example.com/site1 to site1.com and example.com/site2 to site2.com.
+Let's say you have two sites built with different generators for diffrent reasons, `products.example.com` and `docs.example.com`, and you want to host both of these sites under the same domain, `www.example.com`.
 
-To set up proxy rewrite, you will need to add a \_redirects file to the root of your site's repository. The_redirects file should contain the following lines:
+You can use the proxy rewrite feature to redirect traffic from `example.com/products` to `products.example.com` and `example.com/docs` to `docs.example.com`.
+
+To set up proxy rewrite, you will need to a plaintext file that includes a `_redirects` file to the root of your example.com site's repository. The `_redirects` file should contain the following lines:
 
 ```toml
-/site1/* https://site1.com/:splat 301!
-/site2/* https://site2.com/:splat 301!
+/products/* https://products.example.com/:splat 301!
+
+/docs/* https://docs.example.com/:splat 301!
 ```
 
-This will redirect all traffic from example.com/site1 to site1.com and example.com/site2 to site2.com.
+This will redirect all traffic from example.com/products and example.com/docs respectively.
+
+![Netlify proxy rewrite](/netlify-proxy-rewrite.png)
 
 There are a few limitations to using proxy rewrite. For example, you can only redirect traffic from a subdomain to a different site or location on the same domain, and you cannot redirect traffic from the root domain (example.com) to a different site or location. Additionally, the proxy rewrite feature only works with sites that are deployed on Netlify.
 

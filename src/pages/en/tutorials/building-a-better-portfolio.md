@@ -14,8 +14,8 @@ Whether you are looking for a job or trying to attract new clients, having a wel
 
 Following the thought process of building a portfolio website using [Jamstack framework of your choice](/en/jamstack-frameworks), we'll be using the following technologies:
 
-- [Markdown](/en/markdown-resources) for content
-- [Git](/en/git-resources) for deployment
+- [Markdown](/en/resources/markdown) for content
+- [Git](/en/resources/git) for deployment
 - [Netlify](/en/netlify) for hosting
 
 ## Why use Jamstack for your portfolio?
@@ -67,7 +67,7 @@ Vue is another popular framework for creating modern websites. It is lightweight
 Both React and Vue are great choices for building a portfolio, so it is important to do some research and find the one that best suits your needs.
 
 - [Docusaurus and VuePress](/en/guides/docusarus-and-vuepress) - for documentation related features
-- [Gatsby and Gridsome](/en/gatsby-and-gridsome) - for custom UI components and routing
+- [Gatsby and Gridsome](/en/guides/gatsby-and-gridsome) - for custom UI components and routing
 
 ### Notable
 

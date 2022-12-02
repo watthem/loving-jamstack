@@ -23,12 +23,8 @@
             "id": "777f480069f156d5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "en/netlify.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -98,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "en/netlify.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "en/netlify.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "en/netlify.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -151,15 +143,15 @@
   },
   "active": "777f480069f156d5",
   "lastOpenFiles": [
+    "en/netlify.md",
+    "en/guides/eleventy-and-astro.md",
+    "en/resources/index.md",
+    "en/tutorials/building-a-better-portfolio.md",
     "static-vs-jamstack.png",
     "en/jamstack-frameworks.md",
     "en/guides/index.md",
     "en/guides/vuepress-and-docusaurus.md",
     "en/guides/jekyll-and-hugo 1.md",
-    "en/guides/how-to-use-netlify-cms.md",
-    "en/guides/how-to-use-github-pages.md",
-    "en/guides/eleventy-and-astro 1.md",
-    "en/guides/how-to-use-forestry.md",
-    "en/tutorials/building-a-better-portfolio.md"
+    "en/guides/how-to-use-netlify-cms.md"
   ]
 }

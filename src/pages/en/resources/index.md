@@ -10,5 +10,5 @@ This is a collection from the community of resources for learning Jamstack conce
 
 ### Resources
 
-- [Git Resources](/en/resources/git/)
-- [Markdown Resources](/en/resources/markdown/)
+- [Git Resources](/git/)
+- [Markdown Resources](/markdown/)
