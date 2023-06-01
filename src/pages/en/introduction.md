@@ -4,10 +4,30 @@ description: My digital garden for Jamstack, Web Development, and more.
 layout: ../../layouts/MainLayout.astro
 ---
 
-This is my digital garden. I'm documenting my journey of learning Jamstack, Web Development, and more.
+# Loving Jamstack
 
-> ✌️ Loving-kindness is the path to end suffering in life.
-> Loving-jamstack is the path to end suffering in web development.
+Your guide to pain-free web development.
+
+## Docs
+
+- [ ] Introduction to Jamstack
+- [ ] Exploring Jamstack Frameworks
+- [ ] Options for Hosting Your Jamstack Site
+- [ ] Comprehensive Guides on All Things Jamstack
+
+## Tutorials
+
+- [ ] How to Build a Better Portfolio with Jamstack
+- [ ] Migrating from WordPress to Jamstack: A Step-by-Step Guide
+
+## Resources
+
+- [ ] Curated Resources for All Your Jamstack Needs
+- [ ] Welcome to My Digital Garden
+
+Here, I document my journey into the exciting world of Jamstack, Web Development, and more. This space is an expression of my passion for learning and my desire to share my knowledge with others.
+
+> ✌️ Loving-kindness is the path to end suffering in life. Similarly, Loving-jamstack is the path to end suffering in web development. Let's take this journey together to create faster, more secure, and more user-friendly websites.
 
 ## What is a Digital Garden?
 

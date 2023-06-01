@@ -22,6 +22,10 @@ Created in 2008 by Tom Preston-Werner, Jekyll is a static site generator written
 
 ### Jekyll Features
 
+1. Easy to set up and use with an intuitive workflow.
+2. Supports Markdown and Textile for easy content updates.
+3. Includes a library of ready-made themes for customization.
+
 - Language Built: Ruby
 - Caching: No
 - Security: No
@@ -41,6 +45,10 @@ Hugo is a much newer static site generator, having been released in 2013. Writte
 - Github: <https://github.com/gohugoio/hugo>
 
 ### Hugo Features
+
+1. Easy to set up and use with an intuitive workflow.
+2. Automatically generates a sitemap for SEO.
+3. Includes a library of ready-made themes for customization.
 
 - Language Built: Go
 - Caching: No

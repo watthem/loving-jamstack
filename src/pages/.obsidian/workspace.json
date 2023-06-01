@@ -23,12 +23,15 @@
             "id": "777f480069f156d5",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "en/jamstack-frameworks.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "en/jamstack-frameworks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "en/jamstack-frameworks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "en/jamstack-frameworks.md"
+              }
             }
           }
         ]
@@ -141,17 +148,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "777f480069f156d5",
+  "active": "bb15c916d16e52d5",
   "lastOpenFiles": [
-    "en/netlify.md",
-    "en/guides/eleventy-and-astro.md",
-    "en/resources/index.md",
-    "en/tutorials/building-a-better-portfolio.md",
-    "static-vs-jamstack.png",
-    "en/jamstack-frameworks.md",
+    "en/introduction.md",
+    "en/tutorials/index.md",
+    "en/tutorials/migrating-from-wordpress.md",
     "en/guides/index.md",
-    "en/guides/vuepress-and-docusaurus.md",
-    "en/guides/jekyll-and-hugo 1.md",
-    "en/guides/how-to-use-netlify-cms.md"
+    "en/guides/cms-or-git.md",
+    "en/resources/git.md",
+    "en/tutorials/building-a-better-portfolio.md",
+    "en/jamstack-frameworks.md",
+    "en/netlify.md",
+    "en/guides/eleventy-and-astro.md"
   ]
 }

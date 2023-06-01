@@ -1,6 +1,7 @@
 ---
 title: Gatbsy and Gridsome
 layout: ../../../layouts/MainLayout.astro
+next: ../docusaurus-and-vuepress
 ---
 
 ## Introduction
@@ -14,6 +15,12 @@ layout: ../../../layouts/MainLayout.astro
 - GitHub: https://www.github.com/gatsbyjs/gatsby
 
 ### Gatsby Features
+
+![Gatsby Featured](/gatsby-featured.png)
+
+1. Plugin library for easily adding features.
+2. Supports GraphQL for data sourcing and manipulation.
+3. Includes a library of ready-made themes for customization.
 
 - Language Built: Javascript, React, GraphQL
 - Caching: Yes
@@ -32,6 +39,12 @@ layout: ../../../layouts/MainLayout.astro
 - GitHub: https://www.github.com/gridsome/gridsome
 
 ### Gridsome Features
+
+![Gridsome Featured](/gridsome-featured.png)
+
+1. Automated image optimization for faster loading times.
+2. Supports GraphQL for data sourcing and manipulation.
+3. Vue-based components for easy customization.
 
 - Language Built: Javascript, Vue.js, GraphQL
 - Caching: Yes

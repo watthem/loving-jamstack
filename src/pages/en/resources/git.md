@@ -12,5 +12,9 @@ This all makes it perfect for Jamstack projects.
 
 ## Learning Git
 
+### Beginning Git
 - [Git - the simple guide](https://rogerdudler.github.io/git-guide/) - Just a simple guide for getting started with git.
 - [Oh My Git!](https://ohmygit.org/) - A fun and interactive way to learn Git for people of all skill levels (even kids!)
+
+### Advanced Git
+- [Oh shit, Git!?!](https://ohshitgit.com/) - A helpful and throughough way to fix your mistakes when using git (not safe for kids!)
